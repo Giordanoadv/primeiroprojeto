@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/primeiroprojeto.iml" filepath="$PROJECT_DIR$/primeiroprojeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../termômetro/projetotermiometro/projetotermiometro.iml" filepath="$PROJECT_DIR$/../termômetro/projetotermiometro/projetotermiometro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../segundoprojeto/segundoprojeto/segundoprojeto.iml" filepath="$PROJECT_DIR$/../segundoprojeto/segundoprojeto/segundoprojeto.iml" />
+    </modules>
+  </component>
+</project>
