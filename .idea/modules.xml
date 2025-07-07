@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../termômetro/projetotermômetro/projetoconversordetemperatura/Projetotermômetro.iml" filepath="$PROJECT_DIR$/../termômetro/projetotermômetro/projetoconversordetemperatura/Projetotermômetro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../termômetro/conversor/conversor.iml" filepath="$PROJECT_DIR$/../termômetro/conversor/conversor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../conversordetemperatura/conversordetemperatura.iml" filepath="$PROJECT_DIR$/../conversordetemperatura/conversordetemperatura.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeiroprojeto.iml" filepath="$PROJECT_DIR$/primeiroprojeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/../termômetro/projetotermiometro/projetotermiometro.iml" filepath="$PROJECT_DIR$/../termômetro/projetotermiometro/projetotermiometro.iml" />
       <module fileurl="file://$PROJECT_DIR$/../segundoprojeto/segundoprojeto/segundoprojeto.iml" filepath="$PROJECT_DIR$/../segundoprojeto/segundoprojeto/segundoprojeto.iml" />
