@@ -1,33 +1,25 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
-    // variável sempre inicia com letra minúcula, já classe maiúscula
+class ConversorTemperatura {
     public static void main(String[] args) {
 
-        System.out.printf("Esse é o Screen Match");
-        System.out.println("Filme: Top Gun: Maverick");
 
-        int anoDeLançamento = 2022;
-        System.out.println("ano de lançamento: "+ anoDeLançamento);
-        boolean incluídoNoPlano = false;
-        double notaDofilme = 8.1;
-        // Média calculada pela jaque, paulo e gio 
-        double media = (9.8 + 6.3 + 8.0) / 3; // para priorizar a soma colocou o parenteses
-        System.out.println(media);
-        String sinopse;
-        sinopse = """
-                Filme Top Gun
-                Filme de galã dos anos 80
-                Muito Bom
-                nostalgia
-                Ano de Lançamento               
-                """ + anoDeLançamento;
+        // Temperatura em Celsius
+        double temperaturaCelsius = 30.0;
 
-        System.out.println(sinopse);
+        // Conversão para Fahrenheit
+        double temperaturaFahrenheit = (temperaturaCelsius * 1.8) + 32;
 
-        int classificação;
-        classificação = (int) (media /2);
-        System.out.println(classificação); // casting
+        // Exibindo o valor com casas decimais
+        System.out.println("Temperatura em Fahrenheit (com casas decimais): " + temperaturaFahrenheit);
+
+        // Casting para inteiro (sem casas decimais)
+        int temperaturaFahrenheitInteira = (int) temperaturaFahrenheit;
+
+        // Exibindo o valor sem casas decimais
+        System.out.println("Temperatura em Fahrenheit (sem casas decimais): " + temperaturaFahrenheitInteira);
+
+// conversor de temperatura
     }
 }
 
